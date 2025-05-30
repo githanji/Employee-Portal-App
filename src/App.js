@@ -7,7 +7,7 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [employees, setEmployees] = useState([]);
 
-  // Inline styles
+  
   const containerStyle = {
     padding: '54px',
     backgroundColor: '#f3f4f6',
@@ -18,7 +18,7 @@ function App() {
     boxSizing: 'border-box',
   };
 
-  // Make sure you're logged in to see this styled page
+
   if (!isLoggedIn) {
     return (
       <div style={{ padding: '20px', textAlign: 'center' }}>
