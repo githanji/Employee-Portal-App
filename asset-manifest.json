@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-Portal-App/static/css/main.e6c13ad2.css",
+    "main.js": "/Employee-Portal-App/static/js/main.170a946d.js",
+    "static/js/453.25f31429.chunk.js": "/Employee-Portal-App/static/js/453.25f31429.chunk.js",
+    "index.html": "/Employee-Portal-App/index.html",
+    "main.e6c13ad2.css.map": "/Employee-Portal-App/static/css/main.e6c13ad2.css.map",
+    "main.170a946d.js.map": "/Employee-Portal-App/static/js/main.170a946d.js.map",
+    "453.25f31429.chunk.js.map": "/Employee-Portal-App/static/js/453.25f31429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.170a946d.js"
+  ]
+}
