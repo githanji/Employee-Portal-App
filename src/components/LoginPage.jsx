@@ -16,7 +16,7 @@ function LoginPage({ setIsLoggedIn }) {
     }
   };
 
-  // 🔽 Inline style objects
+ 
   const containerStyle = {
     maxWidth: '400px',
     margin: '80px auto',
